@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 - it starts be able to track versions and recceive commits
 - it initiats be Git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- working dir is phisical dir
+- repository - is git dir
+- staging area - dir for uncommited changes
+- it provides ability to see uncommited changes
