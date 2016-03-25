@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+- help you localaze changes (see not all code)
+- find typos
+- find logical palces of changes
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- you can manage code cyhanges easily
+- can rollback to previous versions
+- can not to rewrite code to prev versions
+- can easily remember what functionality was in previous version
+- write and change code quicker
+- can restore backaps for docs (as student)
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+- have to define logical time to commit
+- can orginize version thread (not overhelm versions list)
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+- orientationo on separate docs instead app (seceral docs)
+
+How can you use the commands git log and git diff to view the history of files?
+
+- log - commits history
+- fiff - commits comparison
+
+How might using version control make you more confident to make changes that could break something?
+
+- you can return to prev version anytime
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- keep control on some Word docs versions
+- keep control on studing code files (courses code files)
+- keep control on future work code files
+- keep control on DB files(?), OLAP cube XMLA files, SSIS packages XML files
+and be able to return to prev version of Cubes/Packages/DBs 
